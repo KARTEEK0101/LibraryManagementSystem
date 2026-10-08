@@ -11,6 +11,7 @@
 	<artifactId>librarymanagementsystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>librarymanagementsystem</name>
+	<packaging>war</packaging>
 	<description>Library management system </description>
 
 	<properties>
